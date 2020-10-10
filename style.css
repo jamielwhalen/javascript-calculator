@@ -1,0 +1,322 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 2em;
+  background-color: #B5E0E5;
+}
+div {
+  width: 30%;
+  border: 5px solid #004C99;
+  padding: 20px;
+  margin: 20px;
+  text-align:center;
+}
+
+h1 {
+  font-style: BOLD;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  color: #808080;
+  text-align: center;
+}
+
+h3 {
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  color: #808080;
+  text-align: center;
+}
+
+.calculator{
+  width = 30%;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  display: table;
+
+
+}
+
+.rowinput{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.input{
+  text-align: right;  
+}
+
+.row{
+  width = 30%;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  display: table-row-group;
+  
+}
+
+
+
+#calculate1{
+  background-color: #ffffff;
+  width: 7vw;
+  height: 7vw;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 1.5vw;
+  font-family: Verdana, sans-serif;
+  font-size: 900%;
+  color: #000000;
+  border: 5px solid #004C99;
+  text-align: center;
+  line-height: 125px;
+  align: left;
+  cursor:pointer;
+  display: table-cell;
+
+
+}
+
+#calculate2{
+  background-color: #ffffff;
+  width: 7vw;
+  height: 7vw;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 1.5vw;
+  font-family: Verdana, sans-serif;
+  font-size: 900%;
+  color: #000000;
+  border: 5px solid #004C99;
+  text-align: center;
+  line-height: 125px;
+  align: left;
+  cursor:pointer;
+  display: table-cell;
+
+}
+
+#calculate3{
+  background-color: #ffffff;
+  width: 7vw;
+  height: 7vw;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 1.5vw;
+  font-family: Verdana, sans-serif;
+  font-size: 900%;
+  color: #000000;
+  border: 5px solid #004C99;
+  text-align: center;
+  line-height: 125px;
+  align: left;
+  cursor:pointer;
+  display: table-cell;
+
+}
+
+#calculate4{
+  background-color: #ffffff;
+  width: 7vw;
+  height: 7vw;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 1.5vw;
+  font-family: Verdana, sans-serif;
+  font-size: 900%;
+  color: #000000;
+  border: 5px solid #004C99;
+  text-align: center;
+  line-height: 125px;
+  align: left;
+  cursor:pointer;
+  display: table-cell;
+
+}
+
+#calculate5{
+  background-color: #ffffff;
+  width: 7vw;
+  height: 7vw;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 1.5vw;
+  font-family: Verdana, sans-serif;
+  font-size: 900%;
+  color: #000000;
+  border: 5px solid #004C99;
+  text-align: center;
+  line-height: 125px;
+  align: left;
+  cursor:pointer;
+  display: table-cell;
+
+}
+
+#calculate6{
+  background-color: #ffffff;
+  width: 7vw;
+  height: 7vw;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 1.5vw;
+  font-family: Verdana, sans-serif;
+  font-size: 900%;
+  color: #000000;
+  border: 5px solid #004C99;
+  text-align: center;
+  line-height: 125px;
+  align: left;
+  cursor:pointer;
+  display: table-cell;
+
+}
+
+#calculate7{
+  background-color: #ffffff;
+  width: 7vw;
+  height: 7vw;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 1.5vw;
+  font-family: Verdana, sans-serif;
+  font-size: 900%;
+  color: #000000;
+  border: 5px solid #004C99;
+  text-align: center;
+  line-height: 125px;
+  align: left;
+  cursor:pointer;
+  display: table-cell;
+
+}
+
+#calculate8{
+  background-color: #ffffff;
+  width: 7vw;
+  height: 7vw;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 1.5vw;
+  font-family: Verdana, sans-serif;
+  font-size: 900%;
+  color: #000000;
+  border: 5px solid #004C99;
+  text-align: center;
+  line-height: 125px;
+  align: left;
+  cursor:pointer;
+  display: table-cell;
+}
+
+#calculate9{
+  background-color: #ffffff;
+  width: 7vw;
+  height: 7vw;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 1.5vw;
+  font-family: Verdana, sans-serif;
+  font-size: 900%;
+  color: #000000;
+  border: 5px solid #004C99;
+  text-align: center;
+  line-height: 125px;
+  align: left;
+  cursor:pointer;
+  display: table-cell;
+
+}
+
+#calculate0{
+  background-color: #ffffff;
+  width: 7vw;
+  height: 7vw;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 1.5vw;
+  font-family: Verdana, sans-serif;
+  font-size: 900%;
+  color: #000000;
+  border: 5px solid #004C99;
+  text-align: center;
+  line-height: 125px;
+  align: left;
+  cursor:pointer;
+  display: table-cell;
+
+}
+
+#calculateA{
+  background-color: #ffffff;
+  width: 7vw;
+  height: 7vw;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 1.5vw;
+  font-family: Verdana, sans-serif;
+  font-size: 900%;
+  color: #000000;
+  border: 5px solid #004C99;
+  text-align: center;
+  line-height: 125px;
+  align: left;
+  cursor:pointer;
+  display: table-cell;
+
+}
+
+#calculateS{
+  background-color: #ffffff;
+  width: 7vw;
+  height: 7vw;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 1.5vw;
+  font-family: Verdana, sans-serif;
+  font-size: 900%;
+  color: #000000;
+  border: 5px solid #004C99;
+  text-align: center;
+  line-height: 125px;
+  align: left;
+  cursor:pointer;
+  display: table-cell;
+
+}
+
+#calculateE{
+  background-color: #ffffff;
+  width: 7vw;
+  height: 7vw;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 1.5vw;
+  font-family: Verdana, sans-serif;
+  font-size: 900%;
+  color: #000000;
+  border: 5px solid #004C99;
+  text-align: center;
+  line-height: 125px;
+  align: left;
+  cursor:pointer;
+  display: table-cell;
+}
+
+#calculateC{
+  background-color: #ffffff;
+  width: 7vw;
+  height: 7vw;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 1.5vw;
+  font-family: Verdana, sans-serif;
+  font-size: 900%;
+  color: #000000;
+  border: 5px solid #004C99;
+  text-align: center;
+  line-height: 125px;
+  align: left;
+  cursor:pointer;
+  display: table-cell;
+}
+
